@@ -31,3 +31,5 @@ Couleurs: #292A2D, #009099, #41B4BB, #7EDCE1, #B6A299.
 ## Prototype:
 
 Navigation interactive entre les différentes pages en versions Desktop et Mobile.
+
+Lien: https://www.figma.com/proto/jtMrwhV9sFeKOGHff3FF0h/Maquette-site-ProBeats?node-id=1-4&p=f&viewport=26%2C275%2C0.11&t=HdZKxW67JraYdtFc-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A4&show-proto-sidebar=1&page-id=0%3A1
